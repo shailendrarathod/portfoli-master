@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from 'file:///C:/Users/USER/Downloads/Shailendra_Singh%20Rathod_Resume_29-06-2023-23-03-16%20(1).pdf';
+import CV from '../../assets/portfolio.png';
 
 const CTA = () => {
   return (
